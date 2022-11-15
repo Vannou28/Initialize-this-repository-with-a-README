@@ -1,4 +1,4 @@
-REMOTE
+Local
 
 
 # Initialize-this-repository-with-a-README
